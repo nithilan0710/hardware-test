@@ -1,0 +1,198 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "86b68d01-02f2-4b9b-a6ec-b29e80d48a90")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 76.2 52.07)
+		(size 26.67 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4056485d-ba80-429b-abe1-5ca1bcf20a69")
+		(property "Sheetname" "Power"
+			(at 76.2 51.3584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 76.2 79.3246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KSRCT-Aerolinkers"
+				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 102.87)
+		(size 27.94 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "50958b29-8393-4a28-a0f2-64b1b830bb88")
+		(property "Sheetname" "IMU_Haptic_Audio_Display"
+			(at 76.2 102.1584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMU_Haptic_Audio_Display.kicad_sch"
+			(at 76.2 130.1246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KSRCT-Aerolinkers"
+				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 184.15 82.55)
+		(size 21.59 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7df97f4b-acb1-48c6-8a2d-9c3ada81cf16")
+		(property "Sheetname" "WiFi"
+			(at 184.15 81.8384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "wifi.kicad_sch"
+			(at 184.15 107.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KSRCT-Aerolinkers"
+				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 50.8)
+		(size 33.02 88.9)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ef06710f-d699-47b1-9d21-fbdea116a5c5")
+		(property "Sheetname" "MCU"
+			(at 129.54 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 129.54 140.2846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KSRCT-Aerolinkers"
+				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "2")
+		)
+	)
+	(embedded_fonts no)
+)

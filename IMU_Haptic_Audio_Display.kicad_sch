@@ -4376,12 +4376,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR025")
 					(unit 1)
@@ -4464,12 +4458,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "C25")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "C25")
 					(unit 1)
@@ -4546,12 +4534,6 @@
 			(uuid "a4de3d15-49f3-4e9b-9137-8361e9e58fa3")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR046")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR046")
@@ -4630,12 +4612,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR029")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR029")
 					(unit 1)
@@ -4712,12 +4688,6 @@
 			(uuid "e77c0ced-7c1a-4610-810e-f726f6443096")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR039")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR039")
@@ -4837,12 +4807,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "U4")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "U4")
 					(unit 1)
@@ -4921,12 +4885,6 @@
 			(uuid "4a88d182-7d56-4544-8fef-096a01817fa7")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "TP12")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "TP12")
@@ -5010,12 +4968,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "C16")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "C16")
 					(unit 1)
@@ -5092,12 +5044,6 @@
 			(uuid "2f141da4-5d52-43a9-b9ca-d4fbf1874684")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR035")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR035")
@@ -5176,12 +5122,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR042")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR042")
 					(unit 1)
@@ -5258,12 +5198,6 @@
 			(uuid "90e18532-a6bd-47f6-b48d-b4ae64d8e68d")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR048")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR048")
@@ -5342,12 +5276,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR032")
 					(unit 1)
@@ -5425,12 +5353,6 @@
 			(uuid "5c0c7916-1125-4391-be1d-e2d8aad74b77")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR027")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR027")
@@ -5537,12 +5459,6 @@
 			(uuid "2d537c66-83c0-453a-8056-69522a7aa8c1")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "U3")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "U3")
@@ -5659,12 +5575,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "J3")
 					(unit 1)
@@ -5744,12 +5654,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "TP10")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "TP10")
 					(unit 1)
@@ -5826,12 +5730,6 @@
 			(uuid "b45240aa-51f6-402c-a4b7-87406625c7eb")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR041")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR041")
@@ -5915,12 +5813,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "C23")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "C23")
 					(unit 1)
@@ -5999,12 +5891,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR045")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR045")
 					(unit 1)
@@ -6082,12 +5968,6 @@
 			(uuid "976ab535-8cda-42ed-8dfb-769bf6152deb")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR047")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR047")
@@ -6171,12 +6051,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "C15")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "C15")
 					(unit 1)
@@ -6253,12 +6127,6 @@
 			(uuid "a2ea3f7f-8941-430c-a731-8db7245edcd6")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR036")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR036")
@@ -6337,12 +6205,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR024")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR024")
 					(unit 1)
@@ -6420,12 +6282,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR026")
 					(unit 1)
@@ -6502,12 +6358,6 @@
 			(uuid "0a4d51fe-7f20-48e6-8624-a2d58ac5b650")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR028")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR028")
@@ -6590,12 +6440,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "LS1")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "LS1")
 					(unit 1)
@@ -6672,12 +6516,6 @@
 			(uuid "ff3f014b-d475-48a6-82e3-250e98585af1")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR044")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR044")
@@ -6817,12 +6655,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "U6")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "U6")
 					(unit 1)
@@ -6905,12 +6737,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "C14")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "C14")
 					(unit 1)
@@ -6989,12 +6815,6 @@
 			(uuid "b27092b1-0b5f-47cc-ab98-23498fdeb0a8")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "TP15")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "TP15")
@@ -7075,12 +6895,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "TP14")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "TP14")
 					(unit 1)
@@ -7159,12 +6973,6 @@
 			(uuid "dab5a59d-ff12-46b2-9361-4b15c2ac611d")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "TP13")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "TP13")
@@ -7248,12 +7056,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "C21")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "C21")
 					(unit 1)
@@ -7330,12 +7132,6 @@
 			(uuid "d07d0e7b-5088-485c-80af-3202f80aee70")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR030")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR030")
@@ -7419,12 +7215,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "C24")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "C24")
 					(unit 1)
@@ -7502,12 +7292,6 @@
 			(uuid "ee610951-2910-445b-9acb-92ad3e1da5a9")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "TP8")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "TP8")
@@ -7588,12 +7372,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "TP11")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "TP11")
 					(unit 1)
@@ -7671,12 +7449,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR040")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR040")
 					(unit 1)
@@ -7753,12 +7525,6 @@
 			(uuid "5486e2ee-f210-4fcf-96e8-12ad6baa0f14")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR031")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR031")
@@ -7838,12 +7604,6 @@
 			(uuid "0d971e89-cab5-4fe2-996d-143867b74cb1")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "M1")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "M1")
@@ -7927,12 +7687,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "C26")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "C26")
 					(unit 1)
@@ -8015,12 +7769,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "C20")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "C20")
 					(unit 1)
@@ -8100,12 +7848,6 @@
 		)
 		(instances
 			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "TP9")
-					(unit 1)
-				)
-			)
-			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "TP9")
 					(unit 1)
@@ -8182,12 +7924,6 @@
 			(uuid "f6ccbfe6-6887-425a-8ef2-bb837137d95d")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "#PWR043")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "#PWR043")
@@ -8270,12 +8006,6 @@
 			(uuid "1ab17e33-3ab9-43ae-8c57-62381bbc2e68")
 		)
 		(instances
-			(project "KSRCT-Aerolinkers"
-				(path "/281aac38-0620-41e7-a411-2cac06d9c8c5/50958b29-8393-4a28-a0f2-64b1b830bb88"
-					(reference "C22")
-					(unit 1)
-				)
-			)
 			(project "KSRCT-Aerolinkers"
 				(path "/86b68d01-02f2-4b9b-a6ec-b29e80d48a90/50958b29-8393-4a28-a0f2-64b1b830bb88"
 					(reference "C22")

@@ -665,6 +665,10 @@
   },
   "sheets": [
     [
+      "a58e2568-c4d5-40bd-9be2-b24c55051a6a",
+      "Block_Diagram"
+    ],
+    [
       "86b68d01-02f2-4b9b-a6ec-b29e80d48a90",
       "KSRCT-Aerolinkers"
     ],
@@ -683,10 +687,6 @@
     [
       "7df97f4b-acb1-48c6-8a2d-9c3ada81cf16",
       "WiFi"
-    ],
-    [
-      "a58e2568-c4d5-40bd-9be2-b24c55051a6a",
-      "Block_Diagram"
     ]
   ],
   "text_variables": {},
